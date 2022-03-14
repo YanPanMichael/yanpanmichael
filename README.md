@@ -8,8 +8,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [astart-cli](https://github.com/alibaba/astart-cli)
-- 🌱 I’m currently learning data
+- 🔭 I’m currently working on [astart-cli](https://github.com/YanPanMichael/astart-cli)
+- 🌱 I’m currently learning data visualization
 
 
 <!--
